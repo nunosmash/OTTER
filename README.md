@@ -84,6 +84,21 @@ For full mode behavior, haptics detail, and troubleshooting, see **`otter-manual
 
 ---
 
+## Hardware Specifications (BOM)
+
+| Category | Component Description | Qty |
+| :--- | :--- | :---: |
+| **MCU** | Raspberry Pi Pico 2 (RP2350) | 1 |
+| **Display** | 2.25" TFT LCD (ST7789, 76x284 Resolution) | 1 |
+| **Encoders (Primary)** | Bourns PEC11R-4015F-S0024 | 4 |
+| **Encoder (Menu)** | EC11 Rotary Encoder w/ Push Switch (Detent) | 1 |
+| **Haptics** | 3V 10mm Mini Vibration Coin Motor | 1 |
+| **Connectors** | PJ-320A 3.5mm Stereo Jack | 1 |
+| **Capacitors** | 100μF Electrolytic Capacitor | 2 |
+| **Hardware** | Custom Encoder Knobs | 5 |
+
+---
+
 ## Documentation
 
 - Full manual: `otter-manual.html`  
