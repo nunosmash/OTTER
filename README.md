@@ -96,7 +96,8 @@ For full mode behavior, haptics detail, and troubleshooting, see **`otter-manual
 | **Connectors** | PJ-320A 3.5mm Stereo Jack | 1 |
 | **Capacitors** | 100μF Electrolytic Capacitor | 2 |
 | **Hardware** | Custom Encoder Knobs | 5 |
-
+| **Hardware** | Brass Heat-Set Insert Nuts (M2x2x3.2) | 4 |
+| **Hardware** | M2 Screws (M2x4) | 4 |
 ---
 
 ## Documentation
