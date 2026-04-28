@@ -3,7 +3,8 @@
 
 **Haptic MIDI controller** that pairs analog-feel **encoder** control with DAW integration: **Live** and **Studio** modes, **haptic** feedback, **layers** and **pages**, and a **Web Editor** (Chrome / Edge) for full configuration.
 
-Part of the **Ash Sound Works** custom tools for live and studio — by sound artist and producer **Ash (Ahn Sunghoon)** · [GitHub](https://github.com/nunosmash)
+Part of the **Ash Sound Works** custom tools for live and studio — by sound artist and producer **Ash (Ahn Sunghoon)** · [GitHub](https://github.com/nunosmash) 
+[Manual](http://ashsoundworks.com/otter-manual.html)
 
 [![OTTER](https://raw.githubusercontent.com/nunosmash/OTTER/refs/heads/main/OTTER_img.jpg)](https://youtu.be/qmccIaClYyg?si=hlSnW6YCaZTJ9VbL)
 
