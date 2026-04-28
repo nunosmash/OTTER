@@ -1,9 +1,10 @@
-[README.md](https://github.com/user-attachments/files/26697365/README.md)
 # OTTER
 
 **Haptic MIDI controller** that pairs analog-feel **encoder** control with DAW integration: **Live** and **Studio** modes, **haptic** feedback, **layers** and **pages**, and a **Web Editor** (Chrome / Edge) for full configuration.
 
 Part of the **Ash Sound Works** custom tools for live and studio — by sound artist and producer **Ash (Ahn Sunghoon)** · [GitHub](https://github.com/nunosmash)
+
+[![OTTER Demo](http://ashsoundworks.com/otter/OTTER_img.jpg)](https://youtu.be/qmccIaClYyg?si=hlSnW6YCaZTJ9VbL)
 
 ---
 
@@ -82,22 +83,6 @@ Depending on branch or release, this repo may include:
 
 For full mode behavior, haptics detail, and troubleshooting, see **`otter-manual.html`** in the Ash Sound Works website bundle — add your public URL once deployed.
 
----
-
-## Hardware Specifications (BOM)
-
-| Category | Component Description | Qty |
-| :--- | :--- | :---: |
-| **MCU** | Raspberry Pi Pico 2 (RP2350) | 1 |
-| **Display** | 2.25" TFT LCD (ST7789, 76x284 Resolution) | 1 |
-| **Encoders (Primary)** | Bourns PEC11R-4015F-S0024 | 4 |
-| **Encoder (Menu)** | EC11 Rotary Encoder w/ Push Switch (Detent) | 1 |
-| **Haptics** | 3V 10mm Mini Vibration Coin Motor | 1 |
-| **Connectors** | PJ-320A 3.5mm Stereo Jack | 1 |
-| **Capacitors** | 100μF Electrolytic Capacitor | 2 |
-| **Hardware** | Custom Encoder Knobs | 5 |
-| **Hardware** | Brass Heat-Set Insert Nuts (M2x2x3.2) | 4 |
-| **Hardware** | M2 Screws (M2x4) | 4 |
 ---
 
 ## Documentation
