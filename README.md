@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26697365/README.md)
 # OTTER
 
-**Haptic MIDI controller** that pairs analog-feel **encoder** control with DAW integration: **Live** and **Studio** modes, **haptic** feedback, **layers** and **pages**, and a **Web Editor** (Chrome / Edge) for full configuration.
+**Haptic MIDI controller** that pairs analog-feel **encoder** control with DAW integration: **Live** and **Studio** modes, **haptic** feedback, **layers** and **pages**, and a **Web Editor** (Chrome) for full configuration.
 
 Part of the **Ash Sound Works** custom tools for live and studio — by sound artist and producer **Ash (Ahn Sunghoon)** · [GitHub](https://github.com/nunosmash) / 
 [Manual](http://ashsoundworks.com/otter-manual.html)
@@ -27,7 +27,7 @@ OTTER uses **encoders** with a **Live Mode** that maps rotation to a **fixed ang
 - **Haptic motor** + **LED** feedback (center snap, boundary alerts); intensity: OFF / LOW / MID / HIGH  
 - **USB MIDI** (class-compliant)  
 - **Internal flash** + Web Editor sync for presets  
-- **Web Editor** — latest **Chrome** or **Edge**; connect via WebUSB  
+- **Web Editor** — latest **Chrome** ; connect via WebUSB  
 
 ---
 
@@ -41,7 +41,7 @@ OTTER uses **encoders** with a **Live Mode** that maps rotation to a **fixed ang
 | I/O | USB MIDI (class-compliant) |
 | Feedback | Haptic motor, LEDs |
 | Storage | Internal flash, synced with Web Editor |
-| Web Editor | Chrome, Edge (latest recommended) |
+| Web Editor | Chrome (latest recommended) |
 
 ---
 
@@ -56,7 +56,7 @@ OTTER uses **encoders** with a **Live Mode** that maps rotation to a **fixed ang
 
 ## Web Editor
 
-1. Use **Chrome** or **Edge** (current version).  
+1. Use **Chrome** (current version).  
 2. Open the bundled **OTTER Web Editor** HTML (local file or hosted URL).  
 3. Connect OTTER over USB → click **Connect** in the editor and grant device access.  
 4. When the status shows **Connected**, edit and sync parameters, names, and colors.  
