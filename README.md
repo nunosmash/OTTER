@@ -96,6 +96,7 @@ For full mode behavior, haptics detail, and troubleshooting, see **`otter-manual
 | **Haptics** | 3V 10mm Mini Vibration Coin Motor | 1 |
 | **Connectors** | PJ-320A 3.5mm Stereo Jack | 1 |
 | **Capacitors** | 100μF Electrolytic Capacitor | 2 |
+| **Enclosure** | 121 x 43 x 2mm Clear Acrylic Top Plate | 1 |
 | **Hardware** | Custom Encoder Knobs | 5 |
 | **Hardware** | Brass Heat-Set Insert Nuts (M2x2x3.2) | 4 |
 | **Hardware** | M2 Phillips Head Screws (M2x4) | 4 |
